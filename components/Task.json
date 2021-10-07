@@ -1,0 +1,46 @@
+{
+  "Task": [
+    {
+      "id": 1,
+      "title": "Learn React hooks",
+      "description": "Learn all the new awesome react hooks",
+      "status": "true",
+      "taskCategoryId": 1,
+      "comments": [
+        {
+          "message": "Hmm, useState is awesome",
+          "createdOn": "2021-09-25T10:30:37.939Z",
+          "updatedOn": "2021-09-25T10:30:37.939Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Learn Jollof rice recipe",
+      "description": "Jollof rice recipe",
+      "status": "true",
+      "taskCategoryId": 2,
+      "comments": [
+        {
+          "message": "You need rice, tomato paste, onions...",
+          "createdOn": "2021-09-25T10:30:37.939Z",
+          "updatedOn": "2021-09-25T10:30:37.939Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "My App Category",
+      "description": "View my app",
+      "status": "true",
+      "taskCategoryId": 3,
+      "comments": [
+        {
+          "message": "It was quite a lot to build the app but it was worth it",
+          "createdOn": "2021-09-25T10:50:37.939Z",
+          "updatedOn": "2021-09-25T10:50:37.939Z"
+        }
+      ]
+    }
+  ]
+}

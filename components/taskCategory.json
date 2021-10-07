@@ -1,0 +1,21 @@
+{"taskCategroy": [
+    {
+       "id" : 1,
+       "name" : "Learn",
+       "createdOn": "20/09/2020",
+       "updatedOn": "21/09/2020"
+    },
+    {
+       "id" : 2,
+       "name" : "Recipe",
+       "createdOn": "20/09/2020",
+       "updatedOn": "21/09/2020"
+    },
+    {
+        "id" : 3,
+        "name" : "App",
+        "createdOn": "20/09/2020",
+        "updatedOn": "21/09/2020"
+     }
+ ]
+}
